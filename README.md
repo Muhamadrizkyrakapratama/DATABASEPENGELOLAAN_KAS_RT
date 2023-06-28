@@ -119,6 +119,9 @@ UPDATE warga SET nama = 'yudha' WHERE id_warga = 'W005';
 DELETE FROM warga WHERE nama = 'Yudha';
 ```
 
+```sql
+DELETE FROM t_pembayaran WHERE id_pembayaran = '002';
+```
 ## **D. SQL JOIN**
 
 ```sql
